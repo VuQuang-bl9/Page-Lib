@@ -1,0 +1,44 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif; /* Modify font family */
+    font-size: 16px; /* Modify font size */
+}
+
+/* Header styling */
+header {
+    background-color: #4CAF50; /* Modify background color */
+}
+
+/* Navigation styling */
+nav {
+    background-color: #333; /* Modify background color */
+}
+
+/* Main content styling */
+main {
+    background-color: #f4f4f4; /* Modify background color */
+    font-size: 18px; /* Modify font size */
+}
+
+/* Footer styling */
+footer {
+    background-color: #222; /* Modify background color */
+}
+
+/* List item styling */
+li {
+    display: inline-block; /* Modify display */
+    width: 200px; /* Modify width */
+}
+
+/* Heading 1 styling */
+h1 {
+    text-align: center; /* Modify text alignment */
+    font-family: 'Helvetica Neue', sans-serif; /* Modify font family */
+    color: #333; /* Modify color */
+}
+
+/* Paragraph styling */
+p {
+    line-height: 1.6; /* Modify line height */
+}
